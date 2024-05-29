@@ -4,9 +4,49 @@
 		"tags": "",
 		"body": "First text\nSecond text\nThird text",
 		"position": {
-			"x": 288,
-			"y": 146
+			"x": -78,
+			"y": -76
 		},
 		"colorID": 0
+	},
+	{
+		"title": "LVL1.1",
+		"tags": "",
+		"body": "Quick! you have to get him! avoid the enemies!",
+		"position": {
+			"x": -230,
+			"y": 132
+		},
+		"colorID": 8
+	},
+	{
+		"title": "LVL1.2",
+		"tags": "",
+		"body": "DIALOGUE 2\nYou got the first object!\nYou deserve a small reward..\nBut I need the other ones too..!\n<< set $isLastLine to true>>",
+		"position": {
+			"x": -218,
+			"y": 370
+		},
+		"colorID": 8
+	},
+	{
+		"title": "LVL2.1",
+		"tags": "",
+		"body": "DIALOGUE 3\nWoah!! thank you.\nYou did a great job. Here's a little more..",
+		"position": {
+			"x": 80,
+			"y": 167
+		},
+		"colorID": 1
+	},
+	{
+		"title": "LVL2.2",
+		"tags": "",
+		"body": "DIALOGUE 4\nanimation is playing",
+		"position": {
+			"x": 93,
+			"y": 404
+		},
+		"colorID": 1
 	}
 ]
