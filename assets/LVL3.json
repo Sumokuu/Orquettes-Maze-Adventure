@@ -1,0 +1,32 @@
+[
+	{
+		"title": "LVL1",
+		"tags": "",
+		"body": "Quick! you have to get him! avoid the enemies!",
+		"position": {
+			"x": 238,
+			"y": 95
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": -96,
+			"y": -35
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node_2",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": -372,
+			"y": -45
+		},
+		"colorID": 0
+	}
+]
