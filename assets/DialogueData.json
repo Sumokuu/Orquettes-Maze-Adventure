@@ -1,8 +1,8 @@
 [
 	{
-		"title": "Beginning",
+		"title": "Start",
 		"tags": "",
-		"body": "First text\nSecond text\nThird text",
+		"body": "Hey there, you look like the adventurous type.\nHow about helping me out?\nI have lost one of my tentacles in this maze.\nCan you help me find the way out so I can retrieve it?\nHow about a small reward for each tentacle you retrieve?\nI promise it'll be worth your while.",
 		"position": {
 			"x": -78,
 			"y": -76
@@ -10,43 +10,33 @@
 		"colorID": 0
 	},
 	{
-		"title": "LVL1.1",
+		"title": "NODE",
 		"tags": "",
-		"body": "Quick! you have to get him! avoid the enemies!",
+		"body": "Woah..! Look who finally made it out of the maze!\nAnd with the tentacle in hand, too.",
 		"position": {
-			"x": -230,
-			"y": 132
+			"x": 40,
+			"y": 151
 		},
 		"colorID": 8
 	},
 	{
-		"title": "LVL1.2",
+		"title": "NODE_2",
 		"tags": "",
-		"body": "DIALOGUE 2\nYou got the first object!\nYou deserve a small reward..\nBut I need the other ones too..!\n<< set $isLastLine to true>>",
+		"body": "Here's your reward...",
 		"position": {
-			"x": -218,
-			"y": 370
+			"x": 316,
+			"y": 340
 		},
 		"colorID": 8
 	},
 	{
-		"title": "LVL2.1",
+		"title": "NODE_3",
 		"tags": "",
-		"body": "DIALOGUE 3\nWoah!! thank you.\nYou did a great job. Here's a little more..",
+		"body": "Now, let's head over to the next maze..",
 		"position": {
-			"x": 80,
-			"y": 167
+			"x": 635,
+			"y": 493
 		},
-		"colorID": 1
-	},
-	{
-		"title": "LVL2.2",
-		"tags": "",
-		"body": "DIALOGUE 4\nanimation is playing",
-		"position": {
-			"x": 93,
-			"y": 404
-		},
-		"colorID": 1
+		"colorID": 0
 	}
 ]
