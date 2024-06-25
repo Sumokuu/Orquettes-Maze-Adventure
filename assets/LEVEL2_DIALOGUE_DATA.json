@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "START TEXT 1\nSTART TEXT 2",
+		"position": {
+			"x": -402,
+			"y": -589
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "NODE TEXT 1\nNODE TEXT 2",
+		"position": {
+			"x": -274,
+			"y": -360
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node_2",
+		"tags": "",
+		"body": "NODE 2 TEXT 1\nNODE 2 TEXT 2",
+		"position": {
+			"x": 19,
+			"y": -229
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node_3",
+		"tags": "",
+		"body": "NODE 3 TEXT 1\nNODE 3 TEXT 2",
+		"position": {
+			"x": 292,
+			"y": -79
+		},
+		"colorID": 0
+	}
+]
