@@ -2,40 +2,40 @@
 	{
 		"title": "Start",
 		"tags": "",
-		"body": "Quick, grab the tentacle if you wanna know what happens next!",
+		"body": "This maze is just one step closer to my little surprise..",
 		"position": {
-			"x": -351,
-			"y": -433
+			"x": 569,
+			"y": 351
 		},
 		"colorID": 0
 	},
 	{
 		"title": "Node",
 		"tags": "",
-		"body": "You're so driven..!",
+		"body": "You got the tentacle!",
 		"position": {
-			"x": -238,
-			"y": -378
+			"x": 732,
+			"y": 457
 		},
 		"colorID": 0
 	},
 	{
 		"title": "Node_2",
 		"tags": "",
-		"body": "Give, and you shall receive..",
+		"body": "Mhmm...",
 		"position": {
-			"x": -107,
-			"y": -286
+			"x": 948,
+			"y": 573
 		},
 		"colorID": 0
 	},
 	{
 		"title": "Node_3",
 		"tags": "",
-		"body": "Ah!",
+		"body": "You have all the tentacles now..",
 		"position": {
-			"x": 61,
-			"y": -200
+			"x": 1165,
+			"y": 697
 		},
 		"colorID": 0
 	}
