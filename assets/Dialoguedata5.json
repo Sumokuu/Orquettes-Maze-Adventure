@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "This maze is just one step closer to my little surprise..",
+		"position": {
+			"x": 569,
+			"y": 351
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "You got the tentacle!",
+		"position": {
+			"x": 732,
+			"y": 457
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node_2",
+		"tags": "",
+		"body": "Mhmm...",
+		"position": {
+			"x": 948,
+			"y": 573
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node_3",
+		"tags": "",
+		"body": "You have all the tentacles now..",
+		"position": {
+			"x": 1165,
+			"y": 697
+		},
+		"colorID": 0
+	}
+]
